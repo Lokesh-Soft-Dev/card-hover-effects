@@ -13,6 +13,7 @@ A modern collection of frosted glass UI cards with smooth hover animations — f
 💻 Responsive Layout – Adapts to all screen sizes using CSS Grid.
 
 🧩 Pure HTML + CSS – No frameworks or JavaScript dependencies.
+
 ---
 ## 🛠️ Technologies Used
 HTML5
