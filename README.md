@@ -1,8 +1,8 @@
 ## 🧊 Frosted Glass Hover Cards
----
+
 A modern collection of frosted glass UI cards with smooth hover animations — fully responsive and built using pure HTML and CSS.
----
-🔗 Live Demo
+
+🔗 Live Demo :
 ---
 
 ## 🚀 Features
