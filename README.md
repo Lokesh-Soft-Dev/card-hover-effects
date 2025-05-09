@@ -2,7 +2,7 @@
 
 A modern collection of frosted glass UI cards with smooth hover animations — fully responsive and built using pure HTML and CSS.
 
-🔗 Live Demo :
+🔗 Live Demo : https://lokesh-soft-dev.github.io/card-hover-effects/
 ---
 
 ## 🚀 Features
