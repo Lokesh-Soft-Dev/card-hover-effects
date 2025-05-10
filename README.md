@@ -16,8 +16,13 @@ A modern collection of frosted glass UI cards with smooth hover animations — f
 
 ---
 ## 🛠️ Technologies Used
-HTML5
+- HTML5
 
-CSS3 (Grid, Transitions, Backdrop Filters)
+- CSS3 (Grid, Transitions, Backdrop Filters)
 
-Google Fonts (Poppins)
+- Google Fonts (Poppins)
+
+---
+## ✨ Author
+
+**LOKESH K**  
