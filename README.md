@@ -6,6 +6,7 @@ A modern collection of frosted glass UI cards with smooth hover animations — f
 ---
 
 ## 🚀 Features
+
 ✨ Glassmorphism Design – Elegant frosted glass effect with subtle borders and blur.
 
 🖱️ Hover Animations – Smooth transitions and lift effects on hover.
